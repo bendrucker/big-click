@@ -1,7 +1,7 @@
 {
   "name": "big-click",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate CSS to increase the click target of an element",
   "license": "MIT",
   "repository": "bendrucker/big-click",
