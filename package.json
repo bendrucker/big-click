@@ -1,0 +1,34 @@
+{
+  "name": "big-click",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate CSS to increase the click target of an element",
+  "license": "MIT",
+  "repository": "bendrucker/big-click",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js | tap-difflet"
+  },
+  "keywords": [
+    "css",
+    "click",
+    "target",
+    "area"
+  ],
+  "devDependencies": {
+    "standard": "^5.0.0",
+    "tap-difflet": "~0.4.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "arrify": "~1.0.0",
+    "to-css": "~1.2.1"
+  }
+}
