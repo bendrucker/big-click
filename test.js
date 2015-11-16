@@ -9,7 +9,7 @@ test(function (t) {
       position: 'relative'
     },
     'button:after': {
-      content: '',
+      content: "''",
       position: 'absolute',
       left: '-10px',
       right: '-10px',

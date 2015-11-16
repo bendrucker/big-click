@@ -12,7 +12,7 @@ module.exports = function bigClick (selectors, size) {
 
   var offset = -1 * size + 'px'
   res[selectors.map(after).join(', ')] = {
-    content: '',
+    content: "''",
     position: 'absolute',
     left: offset,
     top: offset,
