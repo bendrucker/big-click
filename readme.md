@@ -1,4 +1,4 @@
-# big-click [![Build Status](https://travis-ci.org/bendrucker/big-click.svg?branch=master)](https://travis-ci.org/bendrucker/big-click)
+# big-click [![Build Status](https://travis-ci.org/bendrucker/big-click.svg?branch=master)](https://travis-ci.org/bendrucker/big-click) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/big-click.svg)](https://greenkeeper.io/)
 
 > Generate CSS to increase the click target of an element
 
